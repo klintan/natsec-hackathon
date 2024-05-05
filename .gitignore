@@ -1,0 +1,11 @@
+drone-yolov7-dataset/train
+drone-yolov7-dataset/test
+drone-yolov7-dataset/valid/images/BV*
+
+__pycache__
+*.zip
+
+.ipynb_checkpoints
+drone-detection
+Drone-detection-dataset
+Drone-detection-dataset/
